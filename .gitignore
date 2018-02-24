@@ -1,0 +1,5 @@
+## Ignore DSI-BASE temporary files, backup files
+## and build results.
+
+*.~*
+*.exe
